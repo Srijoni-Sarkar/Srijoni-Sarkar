@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Srijoni-Sarkar
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she
-- ⚡ Fun fact: ...
-
-<!---
-Srijoni-Sarkar/Srijoni-Sarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I’m Srijoni – a Computer Science student passionate about coding, creativity, and crafting meaningful user experiences. Currently exploring Web Dev, AI/ML, and everything in between!
